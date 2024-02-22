@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\KonovalovaVA_GUN27_Logical_operations\Logical_operations\Logical_operations\bin\Debug\Logical_operations.exe.config
+C:\Users\Admin\Desktop\KonovalovaVA_GUN27_Logical_operations\Logical_operations\Logical_operations\bin\Debug\Logical_operations.exe
+C:\Users\Admin\Desktop\KonovalovaVA_GUN27_Logical_operations\Logical_operations\Logical_operations\bin\Debug\Logical_operations.pdb
+C:\Users\Admin\Desktop\KonovalovaVA_GUN27_Logical_operations\Logical_operations\Logical_operations\obj\Debug\Logical_operations.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KonovalovaVA_GUN27_Logical_operations\Logical_operations\Logical_operations\obj\Debug\Logical_operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KonovalovaVA_GUN27_Logical_operations\Logical_operations\Logical_operations\obj\Debug\Logical_operations.exe
+C:\Users\Admin\Desktop\KonovalovaVA_GUN27_Logical_operations\Logical_operations\Logical_operations\obj\Debug\Logical_operations.pdb
